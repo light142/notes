@@ -2,7 +2,7 @@
     "routes": [
         {
             "src": "/manifest.json",
-            "dest": "/public/manifest.json",
+            "dest": "/manifest.json",
             "headers": {
                 "Access-Control-Allow-Origin": "*"
             }
